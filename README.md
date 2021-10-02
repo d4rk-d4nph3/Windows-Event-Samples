@@ -1,6 +1,6 @@
 # Windows Event Samples
 
-This repo houses sample Windows event logs consisting of 338 distinct Event IDs.
+This repo houses sample Windows event logs (in JSON) consisting of 338 distinct Event IDs. Might be a handy reference for blue teamers.
 
 Use this [Google Sheet](https://docs.google.com/spreadsheets/d/1kRmVt6PLz-xliD_Ynzz9W2FnJu7iYXSWjRl2SZ4CiaI/edit?usp=sharing) to view which Event IDs are available.
 
